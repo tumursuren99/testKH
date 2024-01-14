@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6bxaAOTseLG_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">2023-2024 ond test</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="2023-2024_ond_test_ORG">
+    <organization identifier="2023-2024_ond_test_ORG">
+      <title>2023-2024 ond test</title>
+      <item identifier="_2021-2022_зорилгын_төсөл_SCO" isvisible="true" identifierref="__6bxaAOTseLG_course_id_RES">
+        <title>2023-2024 ond test</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6bxaAOTseLG_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60vxY6Hc3nA_M_1904_1904.png" />
+      <file href="mobile/6P04gateRjo.jpg" />
+      <file href="mobile/6nowN73IL2Y_M_102_102.png" />
+      <file href="mobile/6Ol2ujSDLHk_80.jpg" />
+      <file href="mobile/615gy0llp0G_M_600_600.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/6rU0fJnotJ5.png" />
+      <file href="mobile/6XAafb6bP4w.png" />
+      <file href="mobile/6M082GbYU4k.png" />
+      <file href="mobile/5Uy2q1DxB10_M_152_152.png" />
+      <file href="mobile/6iEitA90NL1.png" />
+      <file href="mobile/5lqw2pp8AsV.png" />
+      <file href="mobile/5ciAnUw4RAP_M_858_858.png" />
+      <file href="mobile/6D5vYVoBtkz.jpg" />
+      <file href="mobile/6bvm2J6R887.jpg" />
+      <file href="mobile/6JoDQ9mzkRY_80.jpg" />
+      <file href="mobile/6AfPEfN3UBM_M_668_668.png" />
+      <file href="mobile/6RxyqYcecAN_80_P_0_0_731_1127.jpg" />
+      <file href="mobile/5hBbi4wGjl7.jpg" />
+      <file href="story_content/5vavB7hn93l_full.png" />
+      <file href="story_content/5vavB7hn93l.js" />
+      <file href="mobile/5nN3wYzZ9Ol_M_1040_1040.png" />
+      <file href="mobile/5b1nCCxczhO_M_1078_1078.png" />
+      <file href="mobile/5vavB7hn93l.png" />
+      <file href="mobile/6HXXEzFWVPj.png" />
+      <file href="mobile/5kNENpygL2z.png" />
+      <file href="mobile/5kNENpygL2z_X.png" />
+      <file href="mobile/6R4R3b7X25K6agzSjPCx1w{Width=940, Height=387}Light.png" />
+      <file href="mobile/5XfJAdje3QL.png" />
+      <file href="mobile/6YhDPnXC3aO.png" />
+      <file href="mobile/6JYT8BTnJk3.png" />
+      <file href="mobile/6jU8WNeFzjd.png" />
+      <file href="mobile/5m0ZDzthFn0.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/A190.pdf" />
+      <file href="story_content/external_files/Боловсролын_салбарын_дунд_хугацааны_төлөвлөгөө_2021_2030.pdf" />
+      <file href="story_content/external_files/2021-2024 ОНЫ ХӨГЖЛИЙН ТӨЛӨВЛӨГӨӨ.pdf" />
+      <file href="mobile/Shape6SD6IP473w2.png" />
+      <file href="mobile/Slide6QI6NSDga9Q.jpg" />
+      <file href="mobile/Shape6fayW6QwHur.png" />
+      <file href="mobile/Shape66dYS1pXA2S.png" />
+      <file href="mobile/Shape6KMCAZCSHJU.png" />
+      <file href="mobile/Shape62UpnIns1f8.png" />
+      <file href="mobile/Shape5l49lNafeAD.png" />
+      <file href="mobile/_default_Hover_Shape5l49lNafeAD.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/63YSgmrcGer.js" />
+      <file href="html5/data/js/6EXTXcJ7FDU.js" />
+      <file href="html5/data/js/6I90q9xYGhS.js" />
+      <file href="html5/data/js/6k6XDHXXRWN.js" />
+      <file href="html5/data/js/6L2Eu1C1ror.js" />
+      <file href="html5/data/js/6Q9YtB3PQjH.js" />
+      <file href="html5/data/js/6QLF4ZOodYC.js" />
+      <file href="html5/data/js/6VpKID2CGqT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
